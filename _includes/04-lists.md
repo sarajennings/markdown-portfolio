@@ -1,5 +1,5 @@
 A few of my favorite places I've visited include:
-- Puerto Vallarta, Mexico
+- Puerto Vallarta, Mexico :heart: :palm_tree:
 - Spain
   - Madrid
   - Barcelona

@@ -1,1 +1,1 @@
-![Image of Pier at Sunset in Puerto Vallarta](https://github.com/sarajennings/markdown-portfolio/blob/master/PV_Pier_at_Sunset_small.jpg)
+![Image of Pier at Sunset in Puerto Vallarta](https://raw.githubusercontent.com/sarajennings/markdown-portfolio/master/PV_Pier_at_Sunset_small.jpg)
